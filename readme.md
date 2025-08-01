@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
- <a href="https://matthew-arrington.netlify.app" target="blank">
+ <a href="https://matthew-arrington.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-grey" alt="matthew" />
  </a>
  <a href="https://www.linkedin.com/in/mattallengton/" target="_blank">
@@ -25,10 +25,10 @@
  <a href="https://github.com/majayallen" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-black" alt="matthew"/>
  </a>
- <a href="mailto:majayallen@gmail.com" target="_blank">
+ <a href="mailto:majayallen@gmail.com">
   <img src="https://img.shields.io/badge/Email-red" alt="matthew"/>
  </a>
- <a href="tel:+18135900323" target="_blank">
+ <a href="tel:+18135900323">
   <img src="https://img.shields.io/badge/Phone-green" alt="matthew"/>
  </a>
 </p>
