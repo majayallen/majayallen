@@ -38,20 +38,18 @@
  # About Me:
  
 <p>
- <img align="right" width="350" src="/assets/programmer.png" alt="Coding Avatar" />
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: majayallen@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://matthew-arrington.netlify.app)
-
+  👨‍💻 &emsp; Passionate about crafting efficient and scalable software solutions <br/><br/>
+  🌱 &emsp; Always eager to learn new technologies and improve my skills <br/><br/>
+  📧 &emsp; Feel free to reach out: [majayallen@gmail.com](mailto:majayallen@gmail.com) <br/><br/>
+  💬 &emsp; Have questions or want to chat? Connect with me [here](https://matthew-arrington.netlify.app)
 </p>
 
 <br/>
 <br/>
 <br/>
 
-## Use To Code
+## Here are my main skills:
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)
