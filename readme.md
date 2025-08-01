@@ -46,8 +46,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Here are my main skills:
 
